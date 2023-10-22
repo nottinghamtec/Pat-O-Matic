@@ -1,0 +1,10 @@
+C:\Code\Tec\Pat-O-Matic\WindowsApplication14\bin\Release\WindowsApplication14.exe.config
+C:\Code\Tec\Pat-O-Matic\WindowsApplication14\bin\Release\WindowsApplication14.exe
+C:\Code\Tec\Pat-O-Matic\WindowsApplication14\bin\Release\WindowsApplication14.pdb
+C:\Code\Tec\Pat-O-Matic\WindowsApplication14\obj\Release\WindowsApplication14.csprojAssemblyReference.cache
+C:\Code\Tec\Pat-O-Matic\WindowsApplication14\obj\Release\WindowsApplication14.Form1.resources
+C:\Code\Tec\Pat-O-Matic\WindowsApplication14\obj\Release\WindowsApplication14.Properties.Resources.resources
+C:\Code\Tec\Pat-O-Matic\WindowsApplication14\obj\Release\WindowsApplication14.csproj.GenerateResource.cache
+C:\Code\Tec\Pat-O-Matic\WindowsApplication14\obj\Release\WindowsApplication14.csproj.CoreCompileInputs.cache
+C:\Code\Tec\Pat-O-Matic\WindowsApplication14\obj\Release\WindowsApplication14.exe
+C:\Code\Tec\Pat-O-Matic\WindowsApplication14\obj\Release\WindowsApplication14.pdb
